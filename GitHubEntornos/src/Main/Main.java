@@ -5,7 +5,14 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("jamau");
+		System.out.println("Hola gente");
+		
+		despedida();
+	}
+
+	private static void despedida() {
+		// TODO Auto-generated method stub
+		System.out.println("Adios, vayase con dios");
 	}
 
 }
