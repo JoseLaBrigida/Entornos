@@ -16,6 +16,7 @@ public class Main {
     
 		System.out.println("Hola me llamo Enrique y me gustan las Barbies");
 		
+		System.out.println("cambio de bailon en la funcion comun");
 		despedida();
 		accionHenry();
 	}
@@ -28,6 +29,9 @@ public class Main {
 		System.out.println("2+2=5");
 		
 	
+	}
+	private static void funcionbailon() {
+		System.out.println("Funcion de bailon");
 	}
 
 }
