@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Hola gente");
+		System.out.println("Hola me llamo Enrique y me gustan las Barbies");
 		
 		despedida();
 		accionHenry();
